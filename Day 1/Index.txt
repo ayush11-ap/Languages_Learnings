@@ -1,0 +1,26 @@
+#Basics Of C++ Programming
+    - Syntax, library/header file
+    - cin, cout, <<, >>
+    - endl, '\n' - new line character
+    -! `;` is important
+    - running the program using terminal
+
+# Datatypes
+    - int, float, double, char, string, bool
+    - sizeof() - to get the size of the datatype
+    - garbage value
+    -
+    - How datatypes are store in the memory
+        - Decimal to Binary
+        - 1's Complement
+        - 2's Complement
+    - How +ve and -ve numbers are stored
+    - how char datatype is stored
+    - minimum memory allocation for each datatype is
+
+# Operators
+    - Arithmetic Operators --> +, -, *, /, %
+    - Relational Operators --> ==, !=, >, <, >=, <=
+    - Assignment Operators --> =, +=, -=, *=, /=, %=
+    - Logical Operators --> &&, ||, !
+    - Bitwise Operators --> &, |, ^, ~, <<, >>
