@@ -3,7 +3,8 @@
     - cin, cout, <<, >>
     - endl, '\n' - new line character
     -! `;` is important
-    - running the program using terminal
+    - to compile --> `g++ filename.cpp -o run`
+    - to run --> `./run`
 
 # Datatypes
     - int, float, double, char, string, bool
