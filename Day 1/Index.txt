@@ -17,7 +17,7 @@
         - 2's Complement
     - How +ve and -ve numbers are stored
     - how char datatype is stored
-    - minimum memory allocation for each datatype is
+    - minimum memory allocation for any datatype is 1 byte
 
 # Operators
     - Arithmetic Operators --> +, -, *, /, %
@@ -25,3 +25,6 @@
     - Assignment Operators --> =, +=, -=, *=, /=, %=
     - Logical Operators --> &&, ||, !
     - Bitwise Operators --> &, |, ^, ~, <<, >>
+
+    OOPs - object oriented programming system.
+

@@ -4,9 +4,12 @@ using namespace std;  // * using namespace - used to use the standard library in
 
 //👇🏻 return type
 int main(){     // * Entery point
-    int x ;
-    cin >> x;
+    long x , y;
     cout << x << '\n';
+    cout << y << '\n';
+
+    int a = 1.1 * 10;
+    cout << a << '\n';
     cout << "Hello, World!";
     return 0;   // * use to indicate the end of the program / successfull completion
 }
