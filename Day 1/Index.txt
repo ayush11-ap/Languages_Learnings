@@ -28,3 +28,6 @@
 
     OOPs - object oriented programming system.
 
+#Type Casting 
+    Implicit Conversion
+    Explicit Type Casting

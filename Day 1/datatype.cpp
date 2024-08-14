@@ -2,11 +2,27 @@
 using namespace std;
 
 int main(){
+    // Implicit Conversion - Automatic 
     //! integer datatype - used to store whole numbers 
     int x;
     // cin >> x;
     // cout << x << endl;
     // cout << sizeof(x) << " byte"; // Memory Size
+
+    // string str = "ASAN";
+    // int y = str;
+
+    // float pi = 36.1435463535659f;
+    // int intVal = pi;
+    // cout << intVal << endl;
+
+    long tel = 123456856;   //!Error: integer constant is too large
+    int intVal = tel;
+    cout << intVal << endl;
+    cout << sizeof(tel) << endl;
+    cout << sizeof(intVal) << endl;
+
+    
 
     //! float datatype - used to store decimal numbers with single prescision.
     // float pi = 36.1435463535659f;
@@ -30,24 +46,24 @@ int main(){
 
 
     //! string datatype - to store string value in ""
-    string teamName;
-    cin >> teamName;
-    cout << teamName << endl;
-    cout << sizeof(teamName) << endl; // Memory Size
+    // string teamName;
+    // cin >> teamName;
+    // cout << teamName << endl;
+    // cout << sizeof(teamName) << endl; // Memory Size
 
     // ! bool dataype - represents true or false
-    bool isEven = true;
-    bool isOdd = false;
-    cout << isEven << endl;
+    // bool isEven = true;
+    // bool isOdd = false;
+    // cout << isEven << endl;
     // * mainly used in if else statement
 
 
     //! char datatype - used to store single character value in ''.
-    char ch;
-    cin >> ch;
-    char ch = 'a';
-    cout << ch << endl;
-    cout << sizeof(ch) << " byte"; // Memory Size
+    // char ch;
+    // cin >> ch;
+    // char ch = 'a';
+    // cout << ch << endl;
+    // cout << sizeof(ch) << " byte"; // Memory Size
     return 0;
 }
 
