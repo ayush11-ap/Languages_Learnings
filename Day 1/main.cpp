@@ -15,4 +15,4 @@ int main(){     // * Entery point
 }
 
 // ! cout -> character output / << - insertion/put to operator
-// ! cin -> character input / >> - exertation operator
+// ! cin -> character input / >> - extraction operator
