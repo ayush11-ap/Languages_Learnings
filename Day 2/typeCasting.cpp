@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     // ! Type Casting
 
-    // ! Implicit Type Casting
+    // ! Implicit Type Casting - Automatic Type Conversion is done by compiler
     // * 1. int to float
     // int num1 = 10;
     // float num2 = 5.5;
@@ -21,7 +21,12 @@ int main(){
     // char ch = a;
     // cout << ch << endl;
 
-    //! Explicit Type Casting
+    //* 4. long to int
+    long lg = 11112005;
+    int intLg = lg;
+    cout << intLg << endl;
+
+    //! Explicit Type Casting - Manual Type Casting
     //* 1 int to float
     // int num1 = 10;
     // float num2 = 5.5;
